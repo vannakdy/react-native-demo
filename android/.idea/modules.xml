@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/react_native_2.iml" filepath="$PROJECT_DIR$/.idea/modules/react_native_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/react_native_2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/react_native_2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2085943661/react_native_2.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/2085943661/react_native_2.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
